@@ -1,0 +1,4 @@
+- Jika dipublish, harus direfresh sekitar tiga kali agar animasi dapat berjalan. Jika ini tidak dapat dilakukan,
+maka coba pindah ke tab baru, baru kembali ke tab proyek. 
+- Ketika mengerjakan, terdapat error untuk mempublish animasi (hanya muncul layar putih),
+kami mengatasi error tersebut dengan mengcopy semua layer ke project yang baru
